@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petervillanueva" width="1000" alt="petervillanueva" /></a> </p>
 
-<p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=petervillanueva&show_icons=true&locale=en&layout=compact" alt="petervillanueva" /></p>
+<p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=petervillanueva&show_icons=true&theme=dark&locale=en&layout=compact" alt="petervillanueva" /></p>
 
-<p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=petervillanueva&show_icons=true&locale=en" alt="petervillanueva" /></p>
+<p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=petervillanueva&show_icons=true&theme=dark&locale=en" alt="petervillanueva" /></p>
 
-<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=petervillanueva&" alt="petervillanueva" /></p>
+<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=petervillanueva&theme=dark" alt="petervillanueva" /></p>
