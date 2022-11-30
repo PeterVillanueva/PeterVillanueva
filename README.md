@@ -21,7 +21,7 @@
 </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" width="1000" alt="petervillanueva" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&no-frame=true&row=2&column=3&theme=flat" width="1000" alt="petervillanueva" /></a> </p>
 
 <p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=petervillanueva&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact" alt="petervillanueva" /></p>
 
