@@ -1,7 +1,7 @@
 <h1 align="center">Peter Donniel P. Villanueva</h1>
 <h3 align="center">A College Student and Aspiring WebDeveloper from Philippines</h3>
 
-<img align="center" alt="coding" width="1000" height="240" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="coding" width="1000" height="280" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
