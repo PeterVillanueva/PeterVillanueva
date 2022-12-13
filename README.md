@@ -27,4 +27,4 @@
 
 <p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=petervillanueva&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="petervillanueva" /></p>
 
-<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=petervillanueva&hide_border=true&theme=" alt="petervillanueva" /></p>
+<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=petervillanueva&hide_border=true&theme=dracula" alt="petervillanueva" /></p>
