@@ -1,30 +1,94 @@
-<h1 align="center">🥇Peter Donniel P. Villanueva🥇</h1>
-<h3 align="center">A College Student and Aspiring WebDeveloper from Philippines</h3>
-
+<h1 align="center">Peter Donniel P. Villanueva</h1>
 <p align="center">
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/petervillanueva/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/petervillanueva/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
+  Web Developer • 3D Web Enthusiast • AI Systems Builder
 </p>
 
-<img align="center" alt="coding" width="1000" height="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  Building modern, interactive, and intelligent web experiences.
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&no-frame=true&row=2&column=3&theme=flat" width="1000" alt="petervillanueva" /></a> </p>
+---
 
-<p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=petervillanueva&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact" alt="petervillanueva" /></p>
+<h3>About Me</h3>
 
-<p><img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=petervillanueva&show_icons=true&hide_border=true&theme=transparent&locale=en" alt="petervillanueva" /></p>
+- Web Developer focused on **modern frontend & full-stack systems**
+- Building **interactive 3D web apps (React Three Fiber / Three.js)**
+- Exploring **AI + real-time systems (CNN-LSTM, ML integration)**
+- Currently working on:  
+  **Navigator — Interactive Grave Mapping & Management System**
+- Strong focus on **performance, clean architecture, and UI/UX**
 
-<p><img align="center" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=petervillanueva&hide_border=true&theme=dracula" alt="petervillanueva" /></p>
+---
+
+<h3>Tech Stack</h3>
+
+<h4>Frontend</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,scss,tailwind" />
+</p>
+
+<h4>3D & Animation</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webgl/webgl-original.svg" width="48" />
+</p>
+
+<h4>Backend & Database</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb" />
+</p>
+
+<h4>AI / Machine Learning</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+<h4>Tools & Workflow</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vercel,pnpm,figma,blender" />
+</p>
+
+---
+
+<h3>Featured Work</h3>
+
+- **Navigator**  
+  Interactive 3D grave mapping system with user-based visibility & admin control
+
+- **AI Drowsiness Detection System**  
+  CNN-LSTM hybrid for real-time driver monitoring
+
+- **Modern Web Experiences**  
+  High-end landing pages using Three.js + GSAP animations
+
+---
+
+<h3>Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=petervillanueva&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petervillanueva&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+<h3>Philosophy</h3>
+
+<p>
+  I don’t just build websites — I build systems and experiences.
+  Clean code, smooth interactions, and purposeful design always come first.
+</p>
+
+---
+
+<h3>Connect</h3>
+
+<p>
+  Portfolio: (add your link)<br/>
+  Email: (add your email)<br/>
+  LinkedIn: (add if you have)
+</p>
