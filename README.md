@@ -1,8 +1,9 @@
 <div align="center">
+  
+<h1 align="center">🥇Peter Donniel P. Villanueva🥇</h1>
+<h3 align="center">A College Student and Aspiring WebDeveloper from Philippines</h3>
 
-# Hi, I'm Peter Donniel P. Villanueva
-
-### Creative Web Developer
+<!-- <h1>Creative Web Developer</h1> -->
 
 <a href="https://komarev.com/ghpvc/?username=PeterVillanueva">
   <img src="https://komarev.com/ghpvc/?username=PeterVillanueva&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views"/>
@@ -39,7 +40,7 @@
 
 # Main skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="100" alt="Next.js"/>
   <img src="https://skillicons.dev/icons?i=vite" height="100" alt="Vite"/>
   <img src="https://skillicons.dev/icons?i=vue" height="100" alt="Vue"/>
