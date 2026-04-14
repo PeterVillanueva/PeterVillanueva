@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1 align="center">🥇Peter Donniel P. Villanueva🥇</h1>
-<h3 align="center">A College Student and Aspiring WebDeveloper from Philippines</h3>
+<h3 align="center">A College Student and Aspiring Web Developer from Philippines</h3>
 
 <!-- <h1>Creative Web Developer</h1> -->
 
@@ -11,13 +11,13 @@
 
 </div>
 
-## GitHub stats & activity
+<h1>GitHub stats & activity</h1>
 
 <p align="center">
   <a href="https://github.com/PeterVillanueva">
-    <img width="49%" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterVillanueva&cache_seconds=7200&layout=compact&theme=vue&border_radius=10" alt="GitHub stats"/>
+    <img width="49%" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterVillanueva&cache_seconds=7200&layout=compact&theme=vue&border_radius=20" alt="GitHub stats"/>
   </a>
-  <img width="49%" height="180" src="https://streak-stats.demolab.com/?user=PeterVillanueva&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub streak"/>
+  <img width="49%" height="200" src="https://streak-stats.demolab.com/?user=PeterVillanueva&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub streak"/>
 </p>
 
 <!-- <p align="center">
@@ -38,7 +38,7 @@
   <img src="profile-3d-city.svg" alt="3D contribution city" width="100%"/>
 </div>
 
-# Main skills
+<h1>Main skills</h1>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="100" alt="Next.js"/>
