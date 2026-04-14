@@ -47,13 +47,16 @@
   <img src="https://skillicons.dev/icons?i=svelte" height="100" alt="Svelte"/>
   <img src="https://skillicons.dev/icons?i=react" height="100" alt="React"/>
   <img src="https://skillicons.dev/icons?i=redux" height="100" alt="Redux"/>
+  <img src="https://skillicons.dev/icons?i=graphql" height="100" alt="graphql"/>
   <img src="https://skillicons.dev/icons?i=ts" height="100" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=js" height="100" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=jquery" height="100" alt="jquery"/>
   <img src="https://skillicons.dev/icons?i=html" height="100" alt="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" height="100" alt="CSS"/>
   <img src="https://skillicons.dev/icons?i=scss" height="100" alt="SCSS"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="100" alt="Tailwind"/>
   <img src="https://skillicons.dev/icons?i=threejs" height="100" alt="Three.js"/>
+  <img src="https://skillicons.dev/icons?i=wasm" height="100" alt="wasm"/>
   <img src="https://skillicons.dev/icons?i=blender" height="100" alt="Blender"/>
   <img src="https://skillicons.dev/icons?i=webpack" height="100" alt="Webpack"/>
   <img src="https://skillicons.dev/icons?i=webflow" height="100" alt="Webflow"/>
@@ -61,6 +64,8 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="100" alt="Firebase"/>
   <img src="https://skillicons.dev/icons?i=supabase" height="100" alt="Supabase"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="100" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="100" alt="prisma"/>
+  <img src="https://skillicons.dev/icons?i=java" height="100" alt="java"/>
   <img src="https://skillicons.dev/icons?i=python" height="100" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="100" alt="TensorFlow"/>
   <img src="https://skillicons.dev/icons?i=opencv" height="100" alt="OpenCV"/>
@@ -69,9 +74,11 @@
   <img src="https://skillicons.dev/icons?i=github" height="100" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vercel" height="100" alt="Vercel"/>
   <img src="https://skillicons.dev/icons?i=pnpm" height="100" alt="pnpm"/>
+  <img src="https://skillicons.dev/icons?i=npm" height="100" alt="npm"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="100" alt="VS Code"/>
   <img src="https://skillicons.dev/icons?i=pycharm" height="100" alt="PyCharm"/>
   <img src="https://skillicons.dev/icons?i=eclipse" height="100" alt="Eclipse"/>
   <img src="https://skillicons.dev/icons?i=figma" height="100" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="100" alt="notion"/>
 </p>
 
