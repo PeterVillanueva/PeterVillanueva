@@ -6,7 +6,7 @@
 <!-- <h1>Creative Web Developer</h1> test -->
 
 <a href="https://komarev.com/ghpvc/?username=PeterVillanueva">
-  <img src="[https://komarev.com/ghpvc](https://komarev.com/ghpvc)/?username=PeterVillanueva&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=PeterVillanueva&label=Profile%20views&color=green&style=flat-square" alt="Profile views"/>
 </a>
 
 </div>
