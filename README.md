@@ -17,7 +17,7 @@
   <a href="https://github.com/PeterVillanueva">
     <img width="49%" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterVillanueva&cache_seconds=7200&layout=compact&theme=vue&border_radius=20" alt="GitHub stats"/>
   </a>
-  <img width="49%" height="200" src="https://streak-stats.demolab.com/?user=PeterVillanueva&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub streak"/>
+  <img width="49%" height="200" src="https://streak-stats.demolab.com/?user=PeterVillanueva&theme=vue&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <!-- <p align="center">
