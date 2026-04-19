@@ -6,7 +6,7 @@
 <!-- <h1>Creative Web Developer</h1> test -->
 
 <a href="https://komarev.com/ghpvc/?username=PeterVillanueva">
-  <img src="https://komarev.com/ghpvc/?username=PeterVillanueva&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views"/>
+  <img src="[https://komarev.com/ghpvc](https://komarev.com/ghpvc)/?username=PeterVillanueva&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views"/>
 </a>
 
 </div>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/PeterVillanueva">
-    <img width="49%" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterVillanueva&cache_seconds=7200&layout=compact&theme=vue&border_radius=20" alt="GitHub stats"/>
+    <img width="49%" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterVillanueva&cache_seconds=7200&layout=compact&theme=vue&hide_border=true" alt="GitHub stats"/>
   </a>
   <img width="49%" height="200" src="https://streak-stats.demolab.com/?user=PeterVillanueva&theme=vue&hide_border=true" alt="GitHub streak"/>
 </p>
