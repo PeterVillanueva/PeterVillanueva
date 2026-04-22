@@ -28,7 +28,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/216e39/PeterVillanueva" alt="Contribution calendar" width="100%"/>
+  <img src="https://ghchart.rshah.org/PeterVillanueva" alt="Contribution calendar" width="100%"/>
 </p>
 
 <!-- <p align="center">
