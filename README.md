@@ -14,13 +14,10 @@
 <h1>GitHub stats & activity</h1>
 
 <p align="center">
-  <!-- <a href="https://github.com/PeterVillanueva">
-    <img width="49%" height="200" src="https://github-readme-stats-five-indol-29.vercel.app/api?username=PeterVillanueva&layout=compact&theme=vue&hide_border=truea&show_icons=true&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
-  </a> -->
   <a href="https://github.com/PeterVillanueva">
     <img width="49%" height="200" src="https://github-readme-stats-five-indol-29.vercel.app/api?username=anuraghazra&layout=compact&theme=vue&hide_border=truea&show_icons=true&rank_icon=default&include_all_commits=true&custom_title=</Peter>%20GitHub%20Stats" alt="GitHub stats"/>
   </a>
-  <img width="49%" height="200" src="https://github-readme-streak-stats-wheat.vercel.app/?user=PeterVillanueva&hide_border=true&mode=daily" alt="GitHub streak"/>
+  <img width="49%" height="200" src="https://github-readme-streak-stats-wheat.vercel.app/?user=PeterVillanueva&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <!-- <p align="center">
@@ -30,12 +27,6 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/PeterVillanueva" alt="Contribution calendar" width="100%"/>
 </p>
-
-<!-- <p align="center">
-  <a href="https://github.com/PeterVillanueva">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PeterVillanueva&theme=vue&radius=10&hide_border=true" alt="Activity graph"/>
-  </a>
-</p> -->
 
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D contribution city" width="100%"/>
