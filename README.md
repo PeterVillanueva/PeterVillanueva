@@ -15,9 +15,9 @@
 
 <p align="center">
   <a href="https://github.com/PeterVillanueva">
-    <img width="49%" height="200" src="https://github-readme-stats-five-indol-29.vercel.app/api?username=anuraghazra&layout=compact&theme=vue&hide_border=truea&show_icons=true&rank_icon=default&include_all_commits=true&custom_title=</Peter>%20GitHub%20Stats" alt="GitHub stats"/>
+    <img width="49%" height="200" src="https://github-readme-stats-five-indol-29.vercel.app/api?username=anuraghazra&layout=compact&theme=vue&hide_border=false&show_icons=true&rank_icon=default&include_all_commits=true&custom_title=</Peter>%20GitHub%20Stats&border_color=9BE9A8" alt="GitHub stats"/>
   </a>
-  <img width="49%" height="200" src="https://github-readme-streak-stats-wheat.vercel.app/?user=PeterVillanueva&hide_border=false" alt="GitHub streak"/>
+  <img width="49%" height="200" src="https://github-readme-streak-stats-wheat.vercel.app/?user=PeterVillanueva&hide_border=false&mode=daily&theme=github-light&disable_animations=false&fire=purple&card_height=200px" alt="GitHub streak"/>
 </p>
 
 <!-- <p align="center">
