@@ -29,8 +29,12 @@
 </p>
 
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D contribution city" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/PeterVillanueva/PeterVillanueva@main/profile-3d-city.svg" alt="3D contribution city" width="100%"/>
 </div>
+
+<!-- <div align="center">
+  <img src="profile-3d-city.svg" alt="3D contribution city" width="100%"/>
+</div> -->
 
 <h1>Main skills</h1>
 
