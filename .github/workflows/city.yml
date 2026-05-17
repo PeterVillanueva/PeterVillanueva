@@ -4,8 +4,9 @@ name: 3D city (isometric calendar)
 
 on:
   schedule:
-    - cron: '0 22 * * *'  # 6 AM PHT (UTC+8)
-    - cron: '0 15 * * *'  # 11 PM PHT (UTC+8)
+    - cron: '0 22 * * *'  # 6 AM PHT
+    - cron: '0 4 * * *'   # 12 PM PHT
+    - cron: '0 15 * * *'  # 11 PM PHT
   workflow_dispatch:
   push:
     branches:
