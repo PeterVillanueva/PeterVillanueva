@@ -1,9 +1,22 @@
 <div align="center">
-  
-<h1 align="center">🥇Peter Donniel P. Villanueva🥇</h1>
-<h3 align="center">A College Student and Aspiring Web Developer from Philippines</h3>
+<img src="profilebanner.png" alt="Profile banner" width="100%"/>
 
-<!-- <h1>Creative Web Developer</h1> test -->
+<!-- <div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Peter Donniel P. Villanueva</h1>
+      <h2>A College Student and Aspiring Web Developer from Philippines</h3>
+    </summary>
+  </ul>
+</div> -->
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+        <h1><strong>Peter Donniel P. Villanueva</strong></h1>
+    </summary>
+  </ul>
+</div>
 
 <a href="https://komarev.com/ghpvc/?username=PeterVillanueva">
   <img src="https://komarev.com/ghpvc/?username=PeterVillanueva&label=Profile%20views&color=green&style=flat-square" alt="Profile views"/>
@@ -11,7 +24,13 @@
 
 </div>
 
-<h1>GitHub stats & activity</h1>
+<div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>GitHub stats & activity</h1>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <a href="https://github.com/PeterVillanueva">
@@ -28,11 +47,13 @@
   <img src="https://cdn.jsdelivr.net/gh/PeterVillanueva/PeterVillanueva@main/profile-3d-city.svg" alt="3D contribution city" width="100%"/>
 </div>
 
-<!-- <div align="center">
-  <img src="profile-3d-city.svg" alt="3D contribution city" width="100%"/>
-</div> -->
-
-<h1>Main skills</h1>
+<div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h1>Main skills</h1>
+    </summary>
+  </ul>
+</div>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="100" alt="Next.js"/>
@@ -76,4 +97,3 @@
   <img src="https://skillicons.dev/icons?i=figma" height="100" alt="Figma"/>
   <img src="https://skillicons.dev/icons?i=notion" height="100" alt="notion"/>
 </p>
-
