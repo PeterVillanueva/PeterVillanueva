@@ -40,7 +40,7 @@
 </div>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/PeterVillanueva" alt="Contribution calendar" width="100%"/>
+  <img src="https://ghchart.rshah.org/PeterVillanueva?=v1" alt="Contribution calendar" width="100%"/>
 </p>
 
 <div align="center">
