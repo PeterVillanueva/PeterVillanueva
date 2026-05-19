@@ -1,18 +1,15 @@
 # Generates profile-3d-city.svg via lowlighter/metrics. Needs secret METRICS_TOKEN.
-
 name: 3D city (isometric calendar)
-
 on:
   schedule:
-    - cron: '0 22 * * *'  # 6 AM PHT
-    - cron: '0 4 * * *'   # 12 PM PHT
-    - cron: '0 15 * * *'  # 11 PM PHT
+    - cron: '0 0 * * *'   # 8 AM PHT (UTC+8)
+    - cron: '0 4 * * *'   # 12 PM PHT (UTC+8)
+    - cron: '0 15 * * *'  # 11 PM PHT (UTC+8)
   workflow_dispatch:
   push:
     branches:
       - main
       - master
-
 jobs:
   build:
     runs-on: ubuntu-latest
