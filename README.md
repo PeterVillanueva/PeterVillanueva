@@ -1,5 +1,7 @@
 <div align="center">
-<img src="profilebanner.png" alt="Profile banner" width="100%"/>
+<a href="https://peter-react-portfolio.vercel.app" target="_blank">
+  <img src="profilebanner.png" alt="Profile banner" width="100%"/>
+</a>
 
 <!-- <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
